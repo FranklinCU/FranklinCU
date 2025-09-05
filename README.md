@@ -1,18 +1,22 @@
 <!-- Futuristic GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👾+Welcome+to+My+Universe+👾;Future+Systems+Engineer+2026;Always+Learning+New+Things;Tech+Explorer+🌌;No+se+ingeniero,+yo+me+las+ingenio+🛠️" alt="Typing Animation" />
+  <!-- Neon light animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=800&lines=💡+Hello%2C+I'm+Franklin!;Future+Systems+Engineer+2026;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%96" alt="Neon Typing Animation" />
 </h1>
 
 ---
 
 # 💫 About Me  
-🎓 Future Systems Engineer (Class of 2026)  
-✨ Looking to leave my mark on technology  
-📖 Always learning something new  
-🌐 Dreaming on a multinational scale  
-🌀 Is this real?  
-🛠️ *No se ingeniero, yo me las ingenio*  
+
+```text
+🎓 Future Systems Engineer (Class of 2026)
+✨ Looking to leave my mark on technology
+📖 Always learning something new
+🌐 Dreaming on a multinational scale
+🌀 Is this real?
+🛠️ No se ingeniero, yo me las ingenio
+
 
 ---
 
