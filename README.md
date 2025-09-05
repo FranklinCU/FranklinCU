@@ -1,16 +1,19 @@
-<!-- 🚀 Futuristic Cyberpunk README -->
+<!-- 🚀 Futuristic GitHub Profile README -->
 
-<!-- Cyberpunk neon banner -->
-<p align="center">
-  <img src="BANNER_CYBERPUNK.gif" alt="Cyberpunk Neon Banner" width="100%" />
-</p>
+<h1 align="center">
+  <!-- Neon typing animation with your name -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=💡+Hello%2C+I'm+Franklin!" alt="Typing Animation" />
+</h1>
 
 ---
 
-<!-- About Me animated typing -->
-<p align="center">
-  <img src="ABOUTME_TYPING.gif" alt="About Me Typing Animation" />
-</p>
+# 💫 About Me  
+🎓 Future Systems Engineer (Class of 2026)  
+✨ Looking to leave my mark on technology  
+📖 Always learning something new  
+🌐 Dreaming on a multinational scale  
+🌀 Is this real?  
+🛠️ *No se ingeniero, yo me las ingenio*  
 
 ---
 
