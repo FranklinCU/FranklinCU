@@ -13,7 +13,7 @@
 📖 Always learning something new  
 🌐 Dreaming on a multinational scale  
 🌀 Is this real?  
-🛠️ *No se ingeniero, yo me las ingenio*  
+🛠️ *Intenando encontrar el orden entre el caos de las ideas*  
 
 ---
 
